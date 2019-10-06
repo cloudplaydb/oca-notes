@@ -57,7 +57,6 @@ public class ArrayInitializer {
 		System.out.println("key:" + key);
 		System.out.println("digested(hex):" + sb.toString());
 		return sb.toString();
-		
 	}
 
 }
